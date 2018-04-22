@@ -1,1 +1,1 @@
-web: go-honyakun
+web: honyakun
